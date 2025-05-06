@@ -92,7 +92,7 @@ Este proyecto es un acto de compartir, basado en la creencia de que el conocimie
 Tu voz y tu participación son la energía que impulsa **CastellaScript** hacia adelante. No estás solo en este camino. Conéctate con nosotros y sé parte activa de esta misión global:
 
 *   **Reporta errores o sugiere características:** Usa [GitHub Issues](https://github.com/Angel250511/CastellaScript/issues). Es el mejor lugar para documentar problemas y tareas y ponerlos en el radar colectivo.
-*   **Discute ideas o haz preguntas generales:** Usa [GitHub Discussions](https://github.com/Angel250511/CastellaScript/tree/main/discussions). Comparte tus pensamientos y visiones.
+*   **Discute ideas o haz preguntas generales:** Usa [GitHub Discussions](https://github.com/Angel250511/CastellaScript/discussions). Comparte tus pensamientos y visiones.
 *   <!-- Añade aquí enlaces a Telegram/Discord/WhatsApp si creas canales y quieres una comunicación más directa. Si la escala es masiva, Discord suele ser buena opción. -->
 
 *(Si necesitas contactar al iniciador de este sueño por alguna razón privada y muy específica: [jarbustamante2025@gmail.com] - opcional y solo si te sientes cómodo dándolo. La comunicación pública en Issues y Discussions es preferible para el desarrollo colaborativo).*
