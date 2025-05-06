@@ -59,19 +59,12 @@ CastellaScript está vivo, funciona y crece con cada línea de código forjada p
 
 ### ¿Listo para Unirte a la Revolución? ¡El Momento es Ahora! ¡Forjemos Juntos el Futuro, Inshallah Alhamdulilah!
 
-1.  **Toma Acción: Clona el Repositorio.** El primer paso para cambiar el mundo es tener las herramientas en tu mano.
-    ```bash
-    git clone https://github.com/tu_usuario/tu_repo_castellascript.git <!-- Sugerencia: usar 'castellascript' en el nombre del repo -->
-    cd tu_repo_castellascript
-    ```
+1.  **Toma Acción: Descarga los modulos de castella.py.** El primer paso para cambiar el mundo es tener las herramientas en tu mano.
 2.  **Prepara Tu Taller (Dependencias):** Configura lo mínimo necesario para empezar a forjar el futuro. Necesitas Python (3.8+ recomendado) y las herramientas clave.
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Esto instalará `lark` (para entender la sintaxis), `pyinstaller` (para crear ejecutables), y las librerías científicas como `numpy`, `matplotlib`, `tensorflow`. Asegúrate de tener `upx` en tu PATH si quieres optimizar ejecutables: [https://upx.github.io/](https://upx.github.io/)).*
+    *(instalar `lark` (para entender la sintaxis), `pyinstaller` (para crear ejecutables), y las librerías científicas como `numpy`, `matplotlib`, `tensorflow`. Asegúrate de tener `upx` en tu PATH si quieres optimizar ejecutables: [https://upx.github.io/](https://upx.github.io/)).*
 3.  **¡Empieza a Forjar y a Probar Sus Límites HOY MISMO!** Usa el compilador con tus archivos o con los ejemplos. **Tu misión inicial: usar CastellaScript activamente, explorar, y encontrar dónde falla.** Si lo hace, ¡excelente! Has encontrado una oportunidad de mejora crucial para la comunidad.
     ```bash
-    python castella_compiler.py tu_codigo.castellascript <!-- Sugerencia: usar extensión .castellascript -->
+    python castella_compiler.py tu_codigo.cst <!-- Sugerencia: usar extensión .cst -->
     ```
     *(Puedes omitir el nombre de salida y la opción de compresión si quieres).*
 
@@ -98,8 +91,8 @@ Este proyecto es un acto de compartir, basado en la creencia de que el conocimie
 
 Tu voz y tu participación son la energía que impulsa **CastellaScript** hacia adelante. No estás solo en este camino. Conéctate con nosotros y sé parte activa de esta misión global:
 
-*   **Reporta errores o sugiere características:** Usa [GitHub Issues](https://github.com/tu_usuario/tu_repo_castellascript/issues). Es el mejor lugar para documentar problemas y tareas y ponerlos en el radar colectivo.
-*   **Discute ideas o haz preguntas generales:** Usa [GitHub Discussions](https://github.com/tu_usuario/tu_repo_castellascript/discussions). Comparte tus pensamientos y visiones.
+*   **Reporta errores o sugiere características:** Usa [GitHub Issues](https://github.com/Angel250511/CastellaScript/issues). Es el mejor lugar para documentar problemas y tareas y ponerlos en el radar colectivo.
+*   **Discute ideas o haz preguntas generales:** Usa [GitHub Discussions](https://github.com/Angel250511/CastellaScript/tree/main/discussions). Comparte tus pensamientos y visiones.
 *   <!-- Añade aquí enlaces a Telegram/Discord/WhatsApp si creas canales y quieres una comunicación más directa. Si la escala es masiva, Discord suele ser buena opción. -->
 
 *(Si necesitas contactar al iniciador de este sueño por alguna razón privada y muy específica: [jarbustamante2025@gmail.com] - opcional y solo si te sientes cómodo dándolo. La comunicación pública en Issues y Discussions es preferible para el desarrollo colaborativo).*
