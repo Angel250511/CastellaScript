@@ -102,7 +102,7 @@ Tu voz y tu participación son la energía que impulsa **CastellaScript** hacia 
 *   **Discute ideas o haz preguntas generales:** Usa [GitHub Discussions](https://github.com/tu_usuario/tu_repo_castellascript/discussions). Comparte tus pensamientos y visiones.
 *   <!-- Añade aquí enlaces a Telegram/Discord/WhatsApp si creas canales y quieres una comunicación más directa. Si la escala es masiva, Discord suele ser buena opción. -->
 
-*(Si necesitas contactar al iniciador de este sueño por alguna razón privada y muy específica: [tu_correo@ejemplo.com] - opcional y solo si te sientes cómodo dándolo. La comunicación pública en Issues y Discussions es preferible para el desarrollo colaborativo).*
+*(Si necesitas contactar al iniciador de este sueño por alguna razón privada y muy específica: [jarbustamante2025@gmail.com] - opcional y solo si te sientes cómodo dándolo. La comunicación pública en Issues y Discussions es preferible para el desarrollo colaborativo).*
 
 ---
 
